@@ -73,6 +73,8 @@ pip install pyserial numpy pandas matplotlib
    python plotGraph.py
    ```
    - The graph for temperature and humidity will be saved as a PNG file in the same folder.
+   ![Alt text](src/img/temperature_humidity_plot.png)
+ ![Alt text](src/img/temperature_humidity_plot_151024.png)
 
 ## Using the Executable Files (for Windows users)
 If you don't want to use Python directly, you can use the provided executable files:
